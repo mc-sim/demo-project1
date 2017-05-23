@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;hello&gt;">
+    <CLASSES>
+      <root url="file://C:/gopath/src/HelloWorld1" />
+      <root url="file://C:/gopath/src/rtblog" />
+      <root url="file://C:/gopath/src/.idea" />
+      <root url="file://C:/gopath/src/login" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://C:/gopath/src/HelloWorld1" />
+      <root url="file://C:/gopath/src/rtblog" />
+      <root url="file://C:/gopath/src/.idea" />
+      <root url="file://C:/gopath/src/login" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
